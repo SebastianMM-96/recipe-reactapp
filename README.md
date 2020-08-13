@@ -2,7 +2,7 @@
 
 Deploying an app that searches for recipes through an API.
 
-https://img.shields.io/github/last-commit/SebastianMM-96/recipe-reactapp
+[image](https://img.shields.io/github/last-commit/SebastianMM-96/recipe-reactapp)
 
 ***
 
