@@ -1,8 +1,10 @@
 # Find Ur Recipe React App
 
+https://img.shields.io/badge/RecipeApp-ReactJS-brightgreen
+
 Deploying an app that searches for recipes through an API.
 
-[image](https://img.shields.io/github/last-commit/SebastianMM-96/recipe-reactapp)
+https://img.shields.io/github/last-commit/SebastianMM-96/recipe-reactapp
 
 ***
 
